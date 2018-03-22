@@ -1,0 +1,133 @@
+/*Theme Color File*/
+
+a,
+.theme_color,
+.btn-style-two,
+.btn-style-three,
+.main-slider .medium-title,
+.list-style-one li:before,
+.default-gallery-item .inner-box .overlay-box .overlay-inner .content .category,
+.gallery-section .filters .filter.active,
+.gallery-section .filters .filter:hover,
+.main-header .header-top .top-right .links li a:hover,
+.news-block .inner-box .content-column .content-inner h3 a:hover,
+.news-block .inner-box .content-column .content-inner .post-meta li .icon,
+.event-block .inner-box .content-box h3 a:hover,
+.call-to-action .title,
+.main-footer .links-widget .list li a:hover,
+.main-footer .links-widget .list li a:hover::before,
+.list-style-two li .icon,
+.social-icon-two li a:hover,
+.footer-style-two .links-widget .list li a:before,
+.footer-style-two .links-widget .list li a:hover,
+.footer-style-two .links-widget .list li a:hover::before,
+.social-icon-three li a:hover,
+.services-block-two .inner-box h3 a:hover,
+.services-block .inner-box h3 a:hover,
+.page-title .bread-crumb li a,
+.sidebar .popular-posts .post a,
+.sidebar .popular-posts .post a:hover,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.news-block-two .inner-box .lower-box h3 a:hover,
+.news-block-two .inner-box .lower-box .post-meta li .icon,
+.page-title .bread-crumb li a:hover, .page-title .bread-crumb li a.current,
+.project-section .filters li:hover, .project-section .filters li.active,
+.main-menu .navigation > li:hover > a, .main-menu .navigation > li.current > a{
+	color:#001f3f;
+}
+
+/*Background Color*/
+.header-top .social-icon li a:hover,
+.btn-style-one,
+.btn-style-three:hover,
+.btn-style-two:hover,
+.scroll-to-top:hover,
+.tab-section .prod-tabs .tab-btns .tab-btn.active-btn,
+.tab-section .prod-tabs .tab-btns .tab-btn:hover,
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li  > ul > li > a:hover,
+.news-block .inner-box .image-column .image .post-date,
+.news-block .inner-box .content-column .content-inner .post-meta:after,
+.testimonial-section .owl-dots .owl-dot.active span,
+.testimonial-section .owl-dots .owl-dot:hover span,
+.main-footer .footer-title h2:after,
+.social-icon-one li a:hover,
+.services-block .inner-box:hover .icon-box,
+.services-block-two .inner-box:hover .icon-box,
+.fact-counter .column .counter-title:after,
+.team-block .inner-box h3,
+.styled-pagination li a:hover,
+.styled-pagination li a.active,
+.sidebar-title h2:after,
+.sidebar .popular-tags a:hover,
+.comment-form button,
+.donate-now .select-box input[type="radio"]:checked+label,
+.news-block-two .inner-box .image-box .image .post-date,
+.news-block-two .inner-box .lower-box .post-meta:after{
+	background-color:#001f3f;
+}
+
+/*Border Color*/
+
+.btn-style-one,
+.main-slider h1:after,
+.btn-style-three,
+.social-icon-three li a:hover,
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > ul > li > ul,
+.gallery-section .filters .filter.active,
+.gallery-section .filters .filter:hover,
+.main-header .nav-outer .search-box-outer .dropdown-menu,
+.main-header .nav-outer .search-panel input:focus,
+.main-header .nav-outer .search-panel select:focus,
+.sidebar .search-box .form-group input:focus,
+.blog-single .news-block-two .inner-box .lower-box .text blockquote,
+.project-section .filters li:hover, .project-section .filters li.active,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group textarea:focus,
+.comment-form button,
+.contact-form .form-group input[type="text"]:focus,
+.contact-form .form-group input[type="password"]:focus,
+.contact-form .form-group input[type="tel"]:focus,
+.contact-form .form-group input[type="email"]:focus,
+.contact-form .form-group select:focus,
+.contact-form .form-group textarea:focus,
+.donate-now .default-title h2:after,
+.donate-form input:focus,
+.donate-form select:focus,
+.donate-form textarea:focus,
+.donate-now .select-box input[type="radio"]:checked+label{
+	border-color:#001f3f;
+}
+
+/*RGBA Color Light*/
+
+/*RGBA Color Dark*/
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#001f3f;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#001f3f;
+	}
+	
+}
